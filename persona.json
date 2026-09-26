@@ -1,0 +1,28 @@
+<---part of sitemap--->
+{
+  "@context": "persona.json"
+  "@type": "A Dude"
+  "nickname": "PuroTheNerd/PuroTheNerd1"
+  "previousnicknames": [
+    "Maliekey/Malikeys"
+  ],
+  "autobiography": "just another folk you can't differ from thousand another, also don't forget address the elephant"
+  "knownas": [
+    "malikeys@Discord"
+    "u/low-drawing-7266@Reddit"
+    "BreadPuro@4PDA"
+    "PuroTheNerd1@Youtube"
+  ],
+  "learned": [
+    "Bricking (and unbricking) phones"
+    "flashing any kind of stuff to phone"
+    "APatch flashing"
+    "e"
+    "Puro?!"
+  ] 
+  "ConnectedWith": [
+    "@type": "Friend"
+    "nickname": "jimhasaburger"
+    "sites": "REDACTED"
+  ]
+}
